@@ -1,2 +1,4 @@
 welcome to new world
 git new
+code1
+code2
